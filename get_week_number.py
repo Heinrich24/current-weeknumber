@@ -3,6 +3,7 @@ import ctypes
 from datetime import date
 
 # Declare current date variable
+# Adding a random comment to test commit
 today = str(date.today())
 
 # Calcualte the current week number based on today's date.
